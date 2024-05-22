@@ -1,3 +1,5 @@
+// Criar um programa que calcula o fatorial de um número inteiro fornecido pelo usuário
+
 "use strict"
 
 let valor,
