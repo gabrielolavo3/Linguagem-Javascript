@@ -1,3 +1,5 @@
+// Fazer um programa que leia 5 números e informa a soma e a média dos números.
+
 "use strict"
 
 let control = 0,
