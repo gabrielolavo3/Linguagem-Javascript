@@ -1,3 +1,7 @@
+/* 
+Ler um nome de usuário e a sua senha e não aceitar a senha igual ao nome do usuário, 
+mostrando uma mensagem de erro e voltando a pedir as informações. */
+
 nomeUsuario = prompt("Cadastre o nome de usuário: ")
 senha = prompt("Cadastre a senha do perfil:")
 
