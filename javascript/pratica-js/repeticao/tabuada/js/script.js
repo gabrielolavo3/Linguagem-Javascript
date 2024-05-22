@@ -1,3 +1,5 @@
+// Gerar a tabuada de 1 a 10 ao ler um número inteiro fornecido pelo usuário
+
 "use strict"
 
 let valor,
