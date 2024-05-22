@@ -1,3 +1,5 @@
+// Ler 5 números e informar o maior número.
+
 "use strict"
 
 let valor, 
