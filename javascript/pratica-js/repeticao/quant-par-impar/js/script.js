@@ -1,3 +1,5 @@
+// Ler 10 números inteiros, calcular e mostrar a quantidade de números pares e a quantidade de números impares.
+
 "use strict"
 
 let G,
