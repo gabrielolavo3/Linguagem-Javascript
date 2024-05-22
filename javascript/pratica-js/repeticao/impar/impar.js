@@ -1,3 +1,5 @@
+// Criar um programa que imprima na tela apenas os números ímpares entre 1 e 50.
+
 "use strict"
 
 for (let i = 1; i <= 50; i++) {
