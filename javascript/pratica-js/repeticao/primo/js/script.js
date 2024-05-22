@@ -1,3 +1,5 @@
+// Ler um número inteiro e determinar se ele é ou não um número primo
+
 "use strict"
 
 let valor,
